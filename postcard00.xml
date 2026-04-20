@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse">
+  <leader>01815nkm a22004333a 4500</leader>
+  <controlfield tag="001">24197486</controlfield>
+  <controlfield tag="005">20250607133818.3</controlfield>
+  <controlfield tag="007">kj |||</controlfield>
+  <controlfield tag="008">240522s1902    xxunnn       |    kneng| </controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">24197486</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="906">
+    <subfield code="a">0</subfield>
+    <subfield code="b">cbc</subfield>
+    <subfield code="c">orignew</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="e">ncip</subfield>
+    <subfield code="f">20</subfield>
+    <subfield code="g">y-printpho</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="955">
+    <subfield code="a">pnpm qw26 2024-05</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="010">
+    <subfield code="a">  2025664392</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="037">
+    <subfield code="a">LC-DIG-pcrd-1a02729</subfield>
+    <subfield code="b">DLC</subfield>
+    <subfield code="c">(digital file from original, front)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="037">
+    <subfield code="a">LC-DIG-pcrd-2a02729</subfield>
+    <subfield code="b">DLC</subfield>
+    <subfield code="c">(digital file from original, back)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">dcrmg</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="050">
+    <subfield code="a">PCRD 1 - District of Columbia - Library of Congress,</subfield>
+    <subfield code="b">no. 103</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Library of Congress</subfield>
+    <subfield code="h">[graphic].</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="260">
+    <subfield code="c">1902.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 print :</subfield>
+    <subfield code="b">photomechanical print ;</subfield>
+    <subfield code="c">sheet 9 x 14 cm (postcard format)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="a">still image</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="a">sheet</subfield>
+    <subfield code="b">nb</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Title from item.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Numbers printed on card: 5438.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Copyright by: Detroit Photographic Co.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="540">
+    <subfield code="a">No known restrictions on publication.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="541">
+    <subfield code="e">2022:027.</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="0" tag="610">
+    <subfield code="a">Library of Congress Thomas Jefferson Building (Washington, D.C.)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Libraries</subfield>
+    <subfield code="y">1900-1910.</subfield>
+    <subfield code="2">lctgm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Postcards</subfield>
+    <subfield code="y">1900-1910.</subfield>
+    <subfield code="2">gmgpc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="662">
+    <subfield code="a">United States</subfield>
+    <subfield code="b">District of Columbia</subfield>
+    <subfield code="d">Washington (D.C.).</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Postcard filing series (Library of Congress)</subfield>
+    <subfield code="w">(DLC) 2023630087</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="852">
+    <subfield code="a">Library of Congress</subfield>
+    <subfield code="b">Prints and Photographs Division</subfield>
+    <subfield code="e">Washington, D.C. 20540 USA</subfield>
+    <subfield code="n">dcu</subfield>
+    <subfield code="u">https://hdl.loc.gov/loc.pnp/pp.print</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="1" tag="856">
+    <subfield code="3">digital file from original, front</subfield>
+    <subfield code="d">pcrd</subfield>
+    <subfield code="f">1a02729</subfield>
+    <subfield code="q">p</subfield>
+    <subfield code="u">https://hdl.loc.gov/loc.pnp/pcrd.1a02729</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="1" tag="856">
+    <subfield code="3">digital file from original, back</subfield>
+    <subfield code="d">pcrd</subfield>
+    <subfield code="f">2a02729</subfield>
+    <subfield code="q">p</subfield>
+    <subfield code="u">https://hdl.loc.gov/loc.pnp/pcrd.2a02729</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="985">
+    <subfield code="a">pp/pcrd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="985">
+    <subfield code="a">pp/diof</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="991">
+    <subfield code="b">c-P&amp;P</subfield>
+  </datafield>
+</record>
